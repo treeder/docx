@@ -6,6 +6,10 @@
     Easily generate and modify .docx files with JS/TS. Works for Node and on the Browser.
 </p>
 
+THIS IS A FORK OF THE MAIN PROJECT THAT ALLOWS IT TO RUN ON CLOUDFLARE WORKERS AND OTHER NON-NODE ENVIRONMENTS.
+
+Please [upvote and/or comment on this pull request](https://github.com/dolanmiu/docx/pull/3321) so it can into upstream and I can get rid of this fork.
+
 ---
 
 [![NPM version][npm-image]][npm-url]
